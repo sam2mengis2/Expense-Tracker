@@ -1,0 +1,16 @@
+body {
+    background-color:lightblue;
+}
+
+div.navbar{
+    background-color: grey;
+    border-radius: 5px;
+    height: fit-content;
+}
+
+input {
+    border-radius: 2px;
+}
+.expense-table{
+    border: 1px solid black;
+}
